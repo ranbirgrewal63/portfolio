@@ -1,0 +1,44 @@
+.profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-inline-end: 4rem;
+}
+
+body{
+    background: #ffffe3;
+    color: #253a52;
+   
+}
+h1{
+    font-size: 3rem;
+}
+.bio{
+    display: flex;
+}
+a.button{
+    text-decoration: none;
+    color: #ffffe3;
+    background: #1348da;
+    padding: 0 1rem;
+    height: 2.5rem;
+    display: inline-flex;
+    align-items: center;
+    border-radius: 1.25rem;
+}
+
+.article-image{
+    width: 512px;
+    margin-inline-start: 4rem;
+}
+article{
+    display: flex;
+}
+hr{
+position: relative;
+top: 20px;
+border: none;
+height: 12px;
+background: black;
+margin-bottom: 50px;
+}
